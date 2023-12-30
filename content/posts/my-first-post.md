@@ -1,7 +1,7 @@
 ---
 title: 'My First Post'
 date: 2023-12-30T22:23:39+09:00
-draft: false
+draft: true
 toc: false
 comments: false
 categories:
