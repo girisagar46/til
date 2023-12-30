@@ -51,6 +51,8 @@ menu:
 # Parameters.
 params:
 
+  favicon: "favicon.png"
+
   # Open all menu links in a new window.
   navigationNewWindow: true
 
